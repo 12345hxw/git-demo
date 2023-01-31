@@ -4,5 +4,9 @@ hello huangxinwvvei
 
 hello huangxinwvvei 
 hello huangxinwvvei 
-hello huangxinwvve  master test
-111111111111111
+<<<<<<< HEAD
+hello huangxinwvve  master te
+=======
+
+111111111111111   hotfix test
+>>>>>>> hot-fix
